@@ -1,6 +1,6 @@
 # Prebuilt Kernel source for the Infinix HOT 40 Pro (X6837)
 
-### Original Project: https://github.com/mt6789-transsion/device_infinix_X6837-kernel
+### Original Project: [device_infinix_X6837-kernel](https://github.com/mt6789-transsion/device_infinix_X6837-kernel)
 
 ### Changes Made
 
